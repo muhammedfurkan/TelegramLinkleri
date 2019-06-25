@@ -1,4 +1,4 @@
-# TelegramLinkleri
+# Telegram Linkleri
 Telegram uygulamasında yararlı kanalların linkleri
 
 # Kanallar
