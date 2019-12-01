@@ -12,4 +12,8 @@ Telegram uygulamasında yararlı kanalların linkleri
 * ÖSYM Duyuru Kanalı : https://t.me/joinchat/AAAAAElNm1TzW9mSxOBU_g
 * E-Kitaplar Kanalı : https://t.me/joinchat/AAAAAFKKtJFL8FGvLaJwtw
 * Ekonomi Kanalı : https://t.me/diptenalanadam
+* Reklam Engelleyici : https://t.me/reklamengelleyici
+
+* Tüm Kanallar : https://t.me/kanallinkleri
+
 
