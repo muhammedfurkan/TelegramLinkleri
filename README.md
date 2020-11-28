@@ -3,7 +3,6 @@ Telegram uygulamasında yararlı kanalların linkleri
 
 # Kanallar
 
-* Kitap Arşivi : https://t.me/joinchat/AAAAAEHtv8EC7ZZ4bUpyyQ
 * Telegram Botlar Kanalı : https://t.me/joinchat/AAAAAFAWvlqhgraMh_N-Zw
 * Müzik Kanalı : https://t.me/joinchat/AAAAAE8NqbV48l7ls-pFtQ
 * Duvar Kağıtları Kanalı : https://t.me/joinchat/AAAAAEjGje3EQ8RrPKe-GQ
